@@ -37,12 +37,6 @@ Prescipto is a full-stack web application that streamlines the process of bookin
 
 ---
 
-## 📷 Screenshots
-
-_Add some screenshots or gifs showing the UI for each role — Admin, Doctor, Customer._
-
----
-
 ## 🔧 Installation & Setup
 
 ```bash
